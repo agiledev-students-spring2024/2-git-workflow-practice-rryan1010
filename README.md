@@ -9,3 +9,6 @@ Fashion Nova, a well-known fast-fashion retailer, has agreed to a 4.2 million do
 This case highlights critical ethical responsibilities in software systems, especially those handling influential information like reviews. Although the Internet has provided easier access to information to the public, it also risks information manipulation and discrimination. 
 
 This article is related to software development because it serves as a precedent to how our apps, tools, sites must be made with careful consideration since they are powerful tools that can be abused to negatively impact people in the real, physical world. It encourages further discussion about the unintended consequences of technologies and how to develop an honest and open digital environment.
+
+### Ellis Pinsky's comments:
+I find this article very interesting as it highlights the capabilities of software developers and the ethical responsibilities that come with it. When it is easy to do the wrong thing and increase revenue or business exposure its important to stay on the right track. 
